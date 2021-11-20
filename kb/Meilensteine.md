@@ -2,7 +2,7 @@
 title: Meilensteine
 tags: agil klassisch
 author: srhnmnn
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Meilensteine um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,16 +10,34 @@ Kurzbeschreibung zu Meilensteine um ein erstes Verständnis dafür zu schaffen u
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Was ist ein Projekt?
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Spricht man von einem Projekt, so handelt es sich um ein zeitlich begrenztes Vorhaben, 
+welches aufgrund seiner Komplexität ein Projektmanagement (PM) erfordert. 
+Dabei unterscheidet man interne Projekte, die von einem unternehmensinternen Auftraggeber stammen, 
+sowie unternehmenseigene Ressourcen verlangen und externe Projekte, die durch einen externen Auftraggeber
+auf Basis eines genau geregelten Vertrags vereinbart werden [^1].
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Projektmanagement
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Durch Projektmanagement sollen die Ziele eines Projekts in der geforderten Zeit, Qualität und im optimalen 
+Einsatz der Personal- und finanziellen Ressourcen umgesetzt werden [^2]. Man unterscheidet agiles und 
+klassisches Projektmanagement, doch auch ein hybrider Ansatz, also eine Kombination beider Strategien sind 
+für manche Projektformen in Betracht zu ziehen [^3]. 
+
+# Meilensteine im klassischen und hybriden Projektmanagement
+
+
+Meilensteine bilden innerhalb des klassischen und hybriden Konzepts wichtige Kontrollpunkte 
+und helfen bei Entscheidungen innerhalb des Projekts. Sie bilden hierbei meist ein Ende einer Projektphase, 
+können aber auch verwendet werden, um etwas zu beginnen oder zum Festsetzen eines Zeitpunkts, 
+an dem eine wichtige Entscheidung über das weitere Vorgehen getroffen werden muss. 
+Meilensteine geben einem Projekt Struktur und verhelfen dazu Überblick über Erfolge und Qualität, 
+sowie Finanzen und zeitliche Ressourcen zu behalten. Die Anzahl der Meilensteine differiert von Projekt 
+zu Projekt stark je nach Umfang und Aufgabe. Laut Andrea Windolph von „Projekte leicht gemacht“ sollte man sich 
+allerdings zumindest an der Faustregel „Formuliere mindestens einen Meilenstein mehr, als Projektphasen existieren.“ 
+orientieren [^4]. Sodass für den Beginn des Projekts und das Erfüllen jedes Teilziels ein Meilenstein gesetzt wird. 
+Mehr Zwischenziele werden formuliert, je detaillierter geplant wird und je mehr Prüfpunkte Projekt-abhängig sinnvoll erscheinen.
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -97,8 +115,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Prof. Dr. Kai-Ingo Voigt, Definition: Was ist "Projekt"?, unter:
+https://wirtschaftslexikon.gabler.de/definition/projekt-42861 (abgerufen am 13.11.2021)
+[^2]: ] Bernhard Hobel, Projekmanagement (PM), unter: https://wirtschaftslexikon.gabler.de/definition/projektmanagement-pm-46130 (abgerufen am 13.11.2021)
+[^3]: Roth Institut, Science for Business, Agiles vs. Klassisches Projektmanagement, unter: https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/ (abgerufen am 15.11.2021)
+[^4]: Andrea Windolph, Was sind eigentlich Meilensteine?, unter: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/definition-meilensteine/ (abgerufen am 15.11.2021)
 
