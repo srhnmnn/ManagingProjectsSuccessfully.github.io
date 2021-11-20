@@ -1,14 +1,14 @@
 ---
 title: Meilensteine
-tags: klassisch Projekt.md Projektmanagement.md
+tags: klassisch
 author: srhnmnn
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Meilensteine um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Meilensteine findet man in jedem größeren und kleineren Projekt. 
+Sie sind fester Bestandteil innerhalb des Projektmanagement, denn sie untergliedern den Weg zum Projektabschluss 
+in Etappen und helfen einen Überblick über erreichte Zwischenziele und kritische Situationen zu behalten.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 ## Was ist ein Projekt?
 
@@ -41,13 +41,7 @@ Mehr Zwischenziele werden formuliert, je detaillierter geplant wird und je mehr 
 
  
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Meilensteine/test-file.jpg)
 
