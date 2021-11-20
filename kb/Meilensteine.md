@@ -1,6 +1,6 @@
 ---
 title: Meilensteine
-tags: agil klassisch
+tags: klassisch Projekt.md Projektmanagement.md
 author: srhnmnn
 anrechnung: k
 ---
