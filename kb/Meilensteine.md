@@ -37,9 +37,9 @@ Meilensteine geben einem Projekt Struktur und verhelfen dazu Überblick über Er
 sowie Finanzen und zeitliche Ressourcen zu behalten. Die Anzahl der Meilensteine differiert von Projekt 
 zu Projekt stark je nach Umfang und Aufgabe. Laut Andrea Windolph von „Projekte leicht gemacht“ sollte man sich 
 allerdings zumindest an der Faustregel „Formuliere mindestens einen Meilenstein mehr, als Projektphasen existieren.“ 
-orientieren [^4]. Sodass für den Beginn des Projekts und das Erfüllen jedes Teilziels ein Meilenstein gesetzt wird. 
-Mehr Zwischenziele werden formuliert, je detaillierter geplant wird und je mehr Prüfpunkte Projekt-abhängig sinnvoll erscheinen.
-Meilensteine helfen bei der Entscheidung ein Projekt weiterzuführen oder zu beenden, sowie auf welche Weise ein Projekt weitergeführt wird.
+orientieren [^4]. 
+Sodass für den Beginn des Projekts und das Erfüllen jedes Teilziels ein Meilenstein gesetzt wird. 
+
 Fragen, die zum Zeitpunkt eines Meilensteins beantwortet werden können:
 * Weiterführung des Projekts möglich?
 * Umplanung erforderlich?
