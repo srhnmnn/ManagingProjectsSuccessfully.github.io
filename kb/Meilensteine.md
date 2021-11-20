@@ -31,14 +31,22 @@ für manche Projektformen in Betracht zu ziehen [^3].
 
 Meilensteine bilden innerhalb des klassischen und hybriden Konzepts wichtige Kontrollpunkte 
 und helfen bei Entscheidungen innerhalb des Projekts. Sie bilden hierbei meist ein Ende einer Projektphase, 
-können aber auch verwendet werden, um etwas zu beginnen oder zum Festsetzen eines Zeitpunkts, 
-an dem eine wichtige Entscheidung über das weitere Vorgehen getroffen werden muss. 
+können aber auch zu Beginn oder zum Festsetzen eines Zeitpunkts, 
+an dem eine wichtige Entscheidung über das weitere Vorgehen getroffen werden muss, verwendet werden. 
 Meilensteine geben einem Projekt Struktur und verhelfen dazu Überblick über Erfolge und Qualität, 
 sowie Finanzen und zeitliche Ressourcen zu behalten. Die Anzahl der Meilensteine differiert von Projekt 
 zu Projekt stark je nach Umfang und Aufgabe. Laut Andrea Windolph von „Projekte leicht gemacht“ sollte man sich 
 allerdings zumindest an der Faustregel „Formuliere mindestens einen Meilenstein mehr, als Projektphasen existieren.“ 
 orientieren [^4]. Sodass für den Beginn des Projekts und das Erfüllen jedes Teilziels ein Meilenstein gesetzt wird. 
 Mehr Zwischenziele werden formuliert, je detaillierter geplant wird und je mehr Prüfpunkte Projekt-abhängig sinnvoll erscheinen.
+Meilensteine helfen bei der Entscheidung ein Projekt weiterzuführen oder zu beenden, sowie auf welche Weise ein Projekt weitergeführt wird.
+Fragen, die zum Zeitpunkt eines Meilensteins beantwortet werden können:
+* Weiterführung des Projekts möglich?
+* Umplanung erforderlich?
+*	Festlegen des alternativen Vorgehens
+*	Check aller Fragen zu Freigaben o.Ä.
+*	Befinden sich die Kosten innerhalb des finanziellen Rahmens?
+*	Wird der zeitliche Rahmen trotz möglicher Änderungen eingehalten?
 
  
 
