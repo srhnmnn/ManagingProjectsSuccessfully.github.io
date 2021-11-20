@@ -9,18 +9,19 @@ Meilensteine findet man in jedem größeren und kleineren Projekt.
 Sie sind fester Bestandteil innerhalb des Projektmanagement, denn sie untergliedern den Weg zum Projektabschluss 
 in Etappen und helfen einen Überblick über erreichte Zwischenziele und kritische Situationen zu behalten.
 
+## zu klärende Begriffe
 
-## Was ist ein Projekt?
+### Was ist ein Projekt?
 
-Spricht man von einem [Projekt] (Projekt.md) , so handelt es sich um ein zeitlich begrenztes Vorhaben, 
+Spricht man von einem [Projekt](Projekt.md) , so handelt es sich um ein zeitlich begrenztes Vorhaben, 
 welches aufgrund seiner Komplexität ein Projektmanagement (PM) erfordert. 
 Dabei unterscheidet man interne Projekte, die von einem unternehmensinternen Auftraggeber stammen, 
 sowie unternehmenseigene Ressourcen verlangen und externe Projekte, die durch einen externen Auftraggeber
 auf Basis eines genau geregelten Vertrags vereinbart werden [^1].
 
-## Projektmanagement
+### Projektmanagement
 
-Durch [Projektmanagement] (Projektmanagement.md) sollen die Ziele eines Projekts in der geforderten Zeit, Qualität und im optimalen 
+Durch [Projektmanagement](Projektmanagement.md) sollen die Ziele eines Projekts in der geforderten Zeit, Qualität und im optimalen 
 Einsatz der Personal- und finanziellen Ressourcen umgesetzt werden [^2]. Man unterscheidet agiles und 
 klassisches Projektmanagement, doch auch ein hybrider Ansatz, also eine Kombination beider Strategien sind 
 für manche Projektformen in Betracht zu ziehen [^3]. 
