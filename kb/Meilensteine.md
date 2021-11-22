@@ -64,7 +64,7 @@ Es sollten alle Teammitglieder, die innerhalb der einzelnen Projektphasen mit de
 in die Aufstellung des Plans mit einbezogen werden.
 So kann gewährleistet werden, dass Umfang und Risiken der einzelnen Phasen richtig abgeschätzt und mit eingeplant werden.
 Zusätzlich zu selbst aufgestellten Meilensteinen gibt es innerhalb eines [Projekts](Projekt.md) manchmal auch Vorgegebene.
-Beispiele hierfür sind Vorgaben des Managers oder Rahmenbedingungen, die von außen festgesetzt sind (Zeitpunkt abhängig). [^6]
+Beispiele hierfür sind Vorgaben des Managers oder Rahmenbedingungen, die von außen festgesetzt sind (Zeitpunkt abhängig).[^6]
 
 ### Meilensteinplan
 
