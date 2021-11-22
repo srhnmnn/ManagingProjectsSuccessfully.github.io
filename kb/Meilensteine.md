@@ -38,12 +38,12 @@ sowie Finanzen und zeitliche Ressourcen zu behalten. Die Anzahl der Meilensteine
 zu [Projekt](Projekt.md) stark je nach Umfang und Aufgabe. Laut Andrea Windolph von „Projekte leicht gemacht“ sollte man sich
 allerdings zumindest an der Faustregel „Formuliere mindestens einen Meilenstein mehr, als Projektphasen existieren.“ 
 orientieren [^4]. 
-Sodass für den Beginn des [Projekts](Projekt.md) und das Erfüllen jedes Teilziels ein Meilenstein gesetzt wird.
-Zwischenziele können jedoch auch innerhalb einer Projekt-Phase sinnvoll gesetzt werden.
+Sodass für den Beginn des [Projekts](Projekt.md) und das Abschließen jeder Projekt-Phase ein Meilenstein gesetzt wird.
+Zwischenziele können jedoch auch innerhalb einer Phase sinnvoll gesetzt werden.
 
 ### Funktionen von Meilensteinen
 
-Jan Entzminger von blindwerk.de [^5] schreibt Meilensteinen folgende Funktionen zu:
+Jan Entzminger von blindwerk schreibt in einem Beitrag über Projektmanagement die Funktionen von Meilensteinen [^5] folgendermaßen: 
 
 * Grobe Terminplanung des Gesamtprojekts
 * Bessere Strukturierung des Vorhabens
@@ -62,7 +62,7 @@ nochmals in kleinere Zwischenziele untergliedert werden.
 Die einzelnen Meilensteine werden in Rücksprache mit dem Projektteam in einem Meilensteinplan festgelegt.
 Es sollten alle Teammitglieder, die innerhalb der einzelnen Projektphasen mit der nötigen Fachexpertise Verantwortung tragen,
 in die Aufstellung des Plans mit einbezogen werden.
-So kann gewährleistet werden, dass Umfang und Risiken der einzelnen Phasen richtig abgeschätzt und festgehalten werden.
+So kann gewährleistet werden, dass Umfang und Risiken der einzelnen Phasen richtig abgeschätzt und mit eingeplant werden.
 Zusätzlich zu selbst aufgestellten Meilensteinen gibt es innerhalb eines [Projekts](Projekt.md) manchmal auch Vorgegebene.
 Beispiele hierfür sind Vorgaben des Managers oder Rahmenbedingungen, die von außen festgesetzt sind (Zeitpunkt abhängig). [^6]
 
@@ -70,8 +70,7 @@ Beispiele hierfür sind Vorgaben des Managers oder Rahmenbedingungen, die von au
 
 Der Meilensteinplan beinhaltet Projekttitel mit Startdatum, Meilensteine als besonderer Bedeutung, Kontrollpunkte zur weiteren Freigabe
 einer neuen Projektphase (sog. Quality Gates), sowie Kennzeichnungen zu Verknüpfungen zwischen [Projekten](Projekt.md) durch Meilensteine. [^7]
-Für die Dokumentation von Meilensteinen innerhalb eines Plans gibt es verschiedene Darstellungsmöglichkeiten, die individuell nach Vorliebe
-und Art des [Projekts](Projekt.md) zu wählen sind. Durchgesetzt haben sich tabellarische Darstellungen, sowie Balkendiagramme und die Projektübersicht anhand
+Für die Dokumentation von Meilensteinen innerhalb eines Plans gibt es verschiedene Darstellungsmöglichkeiten, die individuell zu wählen sind. Durchgesetzt haben sich tabellarische Darstellungen, sowie Balkendiagramme und die Projektübersicht anhand
 eines Zeitstrahls. Im Folgenden zwei Beispiele[^8]:
 
 ![image](https://user-images.githubusercontent.com/93032286/142825200-c9beedda-5763-4465-aeb0-d69d49c33bac.png)
