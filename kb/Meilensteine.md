@@ -69,8 +69,11 @@ Beispiele hierfür sind Vorgaben des Managers oder Rahmenbedingungen, die von au
 ### Meilensteinplan
 
 Der Meilensteinplan beinhaltet Projekttitel mit Startdatum, Meilensteine als besonderer Bedeutung, Kontrollpunkte zur weiteren Freigabe
-einer neuen Projektphase (sog. Quality Gates), sowie Kennzeichnungen zu Verknüpfungen zwischen [Projekten](Projekt.md) durch Meilensteine. [^7]
-Für die Dokumentation von Meilensteinen innerhalb eines Plans gibt es verschiedene Darstellungsmöglichkeiten, die individuell zu wählen sind. Durchgesetzt haben sich tabellarische Darstellungen, sowie Balkendiagramme und die Projektübersicht anhand
+einer neuen Projektphase (sog. Quality Gates), sowie Kennzeichnungen zu Verknüpfungen zwischen [Projekten](Projekt.md) durch Meilensteine.
+Beispielsweise, ob ein Meilenstein von einem anderen [Projekt](Projekt.md) stammt, oder ein mit einem anderen [Projekt](Projekt.md) 
+gemeinsamer Meilenstein formuliert wurde. [^7]
+Für die Dokumentation von Meilensteinen innerhalb eines Plans gibt es verschiedene Darstellungsmöglichkeiten, die individuell zu wählen sind. 
+Durchgesetzt haben sich tabellarische Darstellungen, sowie Balkendiagramme und die Projektübersicht anhand
 eines Zeitstrahls. Im Folgenden zwei Beispiele[^8]:
 
 ![image](https://user-images.githubusercontent.com/93032286/142825200-c9beedda-5763-4465-aeb0-d69d49c33bac.png)
